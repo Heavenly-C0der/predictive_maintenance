@@ -86,4 +86,4 @@ Ideal for teams in healthcare tech, industrial IoT, or manufacturing looking to:
 ## 📬 Contact
 
 Have questions or want to collaborate?  
-**[Your Name]** – [Your Email or LinkedIn/GitHub profile]
+**Debjit Khaskel** – https://www.linkedin.com/in/debjit-khaskel/
