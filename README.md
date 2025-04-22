@@ -63,15 +63,6 @@ jupyter notebook notebooks/model_training.ipynb
 
 ---
 
-## 📊 Sample Visualizations
-
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
-### Class Distribution
-![Class Distribution](images/class_dist.png)
-
----
 
 ## 🧪 Technologies Used
 
