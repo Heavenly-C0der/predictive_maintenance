@@ -11,7 +11,7 @@ A deep learning project that forecasts **CT scan equipment failure types** and *
 - ✅ Estimates **Maintenance Urgency**: High / Medium / Low
 - ✅ Uses **Keras TimeSeriesGenerator** for sequence modeling
 - ✅ Applies **EarlyStopping** to prevent overfitting
-- ✅ Simulates noisy, real-world sensor data (drift, missing values, outliers)
+- ✅ Uses noisy, real-world sensor data (drift, missing values, outliers)
 - ✅ Achieves ~**95% classification accuracy** on noisy datasets
 - ✅ Visualizes model performance (confusion matrix, class distributions)
 
